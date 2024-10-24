@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "527cc3f2e2ee6272",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1f185a10f5b0475",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "447d9b85498d5a87",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "955d7d75451cf9eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "efdcc94f31bf840c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb4ad31391f9a16f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83139a8b37fd9ad4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27170a3cb62e01c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8d86c8b50397f85a",
+    "type": "split",
+    "children": [
+      {
+        "id": "454b8b036fe4bb52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4d09b7da9aef2f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "968c3d7fd76e29d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5b123af126663bdf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "319219fe8042e914",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "447d9b85498d5a87",
+  "lastOpenFiles": [
+    "Untitled 4.md",
+    "2023-12-13.md",
+    "Untitled.canvas",
+    "HW11/HW11.md",
+    "Untitled 3.md",
+    "Final_Project/flowers.jpeg",
+    "Final_Project/~$E19 Final Project Presentation.pptx",
+    "Final_Project/E19 Final Project Presentation.pptx",
+    "Final_Project/davoren-robinson_e19final.py",
+    "Final_Project/imageApproximation.py",
+    "Final_Project/imageApproximation2.py",
+    "Final_Project/F10F7544-4575-4CF8-B547-10A7AA755B08_4_5005_c.jpeg",
+    "Final_Project/B689CD54-706C-4C96-83DB-DA03282A4CC4_1_201_a.jpeg",
+    "~$voren-robinson_e19finalprojectproposal.docx",
+    "Final_Project/best_images_grid.png",
+    "Final_Project.zip",
+    "Final_Project/bar_chart.png",
+    "Final_Project/params_32_trf.txt",
+    "Final_Project/best_image_32_trf.png",
+    "Final_Project/params_32_L-BFGS-B.txt",
+    "Final_Project/best_image_32_L-BFGS-B.png",
+    "Final_Project/params_32_Powell.txt",
+    "Final_Project/best_image_32_Powell.png",
+    "Final_Project/best_image_16_trf.png",
+    "Final_Project/best_image_16_L-BFGS-B.png",
+    "HW11/Untitled.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "davoren_HW4.md",
+    "Untitled.md"
+  ]
+}

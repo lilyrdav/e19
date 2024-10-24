@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "4d592afe1395fe7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0ec20314d3d022a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "689ee1f2ff790288",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cfbd5f148d5f5f11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HW11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0156d387ad38abd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa4398a18640ec68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c975617f541ddeb6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c2778d8429961fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7964554bee2b0b93",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd0a11665e09e941",
+    "type": "split",
+    "children": [
+      {
+        "id": "a44adcdc7b5c406e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7344f25416bb13a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HW11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52c6a98095a4955a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HW11.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "69ac567c11179be4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b526f3bf05429895",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HW11.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cfbd5f148d5f5f11",
+  "lastOpenFiles": [
+    "Image 11-27-23 at 12.21 PM.jpeg",
+    "Image 11-27-23 at 12.20 PM.jpeg",
+    "Image 11-27-23 at 12.19 PM.jpeg",
+    "HW11.md"
+  ]
+}
